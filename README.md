@@ -4,16 +4,16 @@
 Analysis of district-wide test results. Student math and reading score data was cleaned and analyzed to determine the percentage of students who passed both math and reading, as well as this data related to the per student spending. While completing the analysis for school districts, it was needed to remove Thomas High School 9th graders scores while an inquire was made into curcumstances surrounding their testing data. This anaylsis is a comparision of the data with and without Thomas High School. 
 
 ## Results 
-#**District Summary Affects**
+# **District Summary Affects**
 The district summary is not effected by the removal of the 9th graders from Thomas High School.  
 
 
 ![District Summary All Schools](Images/District_Summary_All_School.png)
 
-#**School Summary Affects**
+# **School Summary Affects**
 
 
-#**Thomas High School Affects**
+# **Thomas High School Affects**
 
 The tables below demonstates the difference when excluding the Thomas High Schools 9th grade students Reading and Math scores. In this table, the Thomas High School scores without the 9th, slight decrease, for example in Overall Passing from 90.94 to 90.63. Thomas High School Overall Passing placement does not change significantly, the impact was minimal. 
 
@@ -22,23 +22,23 @@ The tables below demonstates the difference when excluding the Thomas High Schoo
 ![Rated School Summary No THS](Images/By_School_Summary_Rated_NoTHS.png)
 
 
-#**Affects on Math & Reading Scores by:**
--**Grade**
+# **Affects on Math & Reading Scores by:**
+- **Grade**
 The scores by school size are not effected by the removal of the 9th graders at Thomas High School. 
 
--**Spending**
+- **Spending**
 Since we did not remove the students from the data base, but mearly removed their scores there is no effect on the per student spending by the removal of the 9th grade scores at Thomas High School. 
 
 
 ![Scores by Spending](Images/Scores_by_Spending.png)
      
--**School Size**
+- **School Size**
 The scores by school size are not effected by the removal of 9th grade scores at Thomas High School.  Both charts are the same. 
 
 
 ![Scores by School Size](Images/Scores_by_size.png)
 
--**School Type**
+- **School Type**
 The scores by school type are not effected by the removal of 9th grade scores at Thomas High School. 
 
 
