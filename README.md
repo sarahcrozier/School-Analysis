@@ -11,6 +11,7 @@ The district summary is not effected by the removal of the 9th graders from Thom
 ![District Summary All Schools](Images/District_Summary_All_School.png)
 
 ### **School Summary Affects**
+The school data is not effected by the removal of the 9th graders from Thomas High School.
 
 
 ### **Thomas High School Affects**
